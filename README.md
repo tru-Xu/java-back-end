@@ -2,9 +2,7 @@
 
 前言
 
-[博客主页]: https://tru-xu.github.io	"博客"
-
-[TOC]
+[博客主页](https://tru-xu.github.io)
 
 
 
