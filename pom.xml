@@ -13,6 +13,8 @@
         <module>algorithm</module>
         <module>leetcode</module>
         <module>jvm</module>
+        <module>java-base</module>
+        <module>spring</module>
     </modules>
 
 

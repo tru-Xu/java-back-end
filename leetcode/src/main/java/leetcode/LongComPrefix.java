@@ -23,7 +23,7 @@ public class LongComPrefix {
     public static void main(String[] args) {
         LongComPrefix longComPrefix = new LongComPrefix();
         String a = "";
-        String[] s = new String[]{"a", "b"};
+        String[] s = new String[]{"com.aily.bean", "b"};
         longComPrefix.longestCommonPrefix(s);
     }
 }

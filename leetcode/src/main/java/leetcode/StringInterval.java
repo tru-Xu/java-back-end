@@ -44,6 +44,6 @@ public class StringInterval {
 
     public static void main(String[] args){
         StringInterval stringInterval = new StringInterval();
-        stringInterval.isInterleave("a","","a");
+        stringInterval.isInterleave("com.aily.bean","","com.aily.bean");
     }
 }

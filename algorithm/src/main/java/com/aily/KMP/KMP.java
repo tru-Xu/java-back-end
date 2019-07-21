@@ -52,7 +52,6 @@ public class KMP {
                     } else {
                         ++k;
                     }
-
                 } else {
                     next[i] = k;
                 }

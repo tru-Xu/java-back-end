@@ -101,7 +101,7 @@ public class JudgeSurround {
         List<String> strings = new ArrayList<>();
         Set<String> strings1 = new HashSet<>();
 
-        strings1.add("a");
+        strings1.add("com.aily.bean");
         strings1.add("b");
         strings1.forEach(s -> {
 

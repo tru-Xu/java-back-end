@@ -42,7 +42,7 @@ public class PartionPalindrome {
 
     public static void main(String[] args) {
         PartionPalindrome partionPalindrome = new PartionPalindrome();
-        ArrayList<ArrayList<String>> res = partionPalindrome.partition("a");
+        ArrayList<ArrayList<String>> res = partionPalindrome.partition("com.aily.bean");
         System.out.println(res);
     }
 }

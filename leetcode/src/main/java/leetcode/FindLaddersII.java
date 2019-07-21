@@ -63,7 +63,7 @@ public class FindLaddersII {
         int count = cur.length();
         for(int i = 0; i < count; i++){
             char old = charArr[i];
-            for (char c = 'a'; c <= 'z'; c++) {
+            for (char c = 'com.aily.bean'; c <= 'z'; c++) {
                 if(old == c) {
                     continue;
                 }
@@ -97,10 +97,10 @@ public class FindLaddersII {
 
         FindLaddersII findLadders = new FindLaddersII();
         ArrayList<ArrayList<String>> result = new ArrayList<>();
-        String start = "a";
+        String start = "com.aily.bean";
         String end = "c";
         HashSet<String> dict = new HashSet<>();
-        dict.add("a");
+        dict.add("com.aily.bean");
         dict.add("b");
         dict.add("c");
 //        dict.add("lot");
